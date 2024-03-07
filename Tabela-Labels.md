@@ -1,6 +1,8 @@
 | Defeito | Qtde. | Link |
 | --- | --- | --- |
 | Comissao | --- | --- |
+| Comissao | --- | --- |
+| Comissao | --- | --- |
 | Inicializaçao | --- | --- |
 | Computaçao | --- | --- |
 | Desempenho | --- | --- |
