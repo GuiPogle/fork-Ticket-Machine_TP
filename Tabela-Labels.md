@@ -1,4 +1,4 @@
-| Defeito | Qtde. | Link |
+| Defeito | Otto | Link |
 | --- | --- | --- |
 | Comissao | --- | --- |
 | Comissao | --- | --- |
