@@ -18,7 +18,6 @@ public class TicketMachine {
     public void inserir(int quantia) throws PapelMoedaInvalidaException {
         boolean achou = false;
         for (int i = 0; i < papelMoeda.length && !achou; i++) {
-            // Erro: Usando papelMoeda[1] em vez de papelMoeda[i] na comparação
             if (papelMoeda[i] == quantia) {
                 achou = true;
             }
@@ -36,7 +35,7 @@ public class TicketMachine {
     }
 
     public Iterator<Integer> getTroco() {
-        // Erro: Este método deve ser implementado para retornar o troco
+        // Erro: Método não foi implementado para retornar o troco
         return null;
     }
 
